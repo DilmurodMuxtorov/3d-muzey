@@ -29,6 +29,16 @@ So‘ng http://127.0.0.1:4177/ manzilini oching. Windows launcher asosiy port ba
 
 Haqiqiy hisob, to‘lov, ommaviy havola va serverda muzey saqlash ulanmagan. Suratlar mahalliy brauzerda ishlanadi; dastlabki xizmat API’siga yuborilmaydi.
 
+## Netlify
+
+GitHub repozitoriyini Netlify’ga import qiling. `netlify.toml` quyidagilarni avtomatik belgilaydi:
+
+- Build command: `npm run build`
+- Publish directory: `dist`
+- Node.js: `22`
+
+Base directory repozitoriy ildizi bo‘lishi kerak. Deploy branch sifatida loyiha saqlangan `codex/3d-muzey` branchini tanlang. Netlify uchun `node server.mjs` ishga tushirilmaydi; tayyor statik frontend joylashtiriladi. Mavjud fayllarga mos kelmaydigan sahifa yo‘llari `index.html` orqali ochiladi.
+
 ## Ishlab chiqish
 
 ```sh
