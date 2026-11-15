@@ -49,6 +49,3 @@ Yoki `npm run prepare`. O‘zgarishlardan keyin brauzer sahifasini yangilang.
 
 `.runtime/` loglari va kompyuterga xos `runtime-node.txt` Git orqali yuborilmaydi. Boshqa kompyuterda Node.js o‘rnatilgan bo‘lishi kerak.
 
-## Manba
-
-Boshlang‘ich interfeys va 3D resurslar https://muzeycha.uz/ saytining brauzerga ochiq yuboriladigan resurslaridan olingan, keyin ushbu loyiha uchun moslashtirilgan. Bu asl ishlab chiqish repozitori yoki yopiq server kodi emas. Asl resurslarga bo‘lgan huquqlar tegishli egalarida qoladi.
