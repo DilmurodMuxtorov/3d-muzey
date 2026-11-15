@@ -1,0 +1,12 @@
+{
+  "name": "muzeycha-local-reference",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare": "node scripts/prepare.mjs && node scripts/customize.mjs && node scripts/rebrand.mjs",
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "check": "node --check server.mjs && node --check scripts/prepare.mjs"
+  }
+}

@@ -1,0 +1,10 @@
+<svg width="780" height="500" viewBox="0 0 780 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="780" height="500" rx="40" fill="#fff"/>
+<rect x="1" y="1" width="778" height="498" rx="39" stroke="#d6d6d6" stroke-width="2"/>
+<path d="M90 120l70 40v80l-70 40z" fill="#5b57a2"/>
+<path d="M160 160l70 40-70 40z" fill="#d90751"/>
+<path d="M90 280l140-80v80l-70 40z" fill="#fab617"/>
+<path d="M90 120l140 80v-80l-70-40z" fill="#ed6f26"/>
+<path d="M90 380l70-40 70 40-70 0z" fill="#0f9e4b"/>
+<text x="275" y="318" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="700" fill="#1d1346" letter-spacing="-4">СБП</text>
+</svg>

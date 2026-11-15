@@ -1,0 +1,7 @@
+<svg width="780" height="500" viewBox="0 0 780 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="780" height="500" rx="40" fill="#fff"/>
+<rect x="1" y="1" width="778" height="498" rx="39" stroke="#d6d6d6" stroke-width="2"/>
+<defs><linearGradient id="g" x1="560" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#00b4e6"/><stop offset="1" stop-color="#006bb4"/></linearGradient></defs>
+<text x="70" y="318" font-family="Arial, Helvetica, sans-serif" font-size="210" font-weight="700" fill="#0f754e" letter-spacing="-6">МИР</text>
+<path d="M560 205h120c24 0 40 18 40 40s-16 40-40 40H600z" fill="url(#g)"/>
+</svg>

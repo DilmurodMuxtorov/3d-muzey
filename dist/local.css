@@ -1,0 +1,4 @@
+.local-start{min-height:100dvh;display:grid;place-items:center;padding:24px;background:#f6f1ea}
+.local-picker{width:min(100%,620px)}
+.local-picker>div:first-child{width:100%}
+@media(max-width:480px){.local-start{padding:16px}.local-picker button{min-height:330px}}

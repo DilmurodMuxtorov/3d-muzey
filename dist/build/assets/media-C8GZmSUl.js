@@ -1,0 +1,1 @@
+var e={photo:`Rasm`,animation:`GIF`,video:`Video`};function t(e){return e>1048576?`${(e/1048576).toFixed(1)} MB`:`${Math.max(1,Math.round(e/1024))} KB`}function n(e){return`${Math.floor(e/60)}:${String(e%60).padStart(2,`0`)}`}export{n,t as r,e as t};
